@@ -34,9 +34,12 @@ The project includes **two implementations**:
 ## 📸 Examples
 Below are some examples showing how the language works:
 
-![Example 1](examples/example1.png)
-![Example 2](examples/example2.png)
-![Example 3](examples/example3.png)
+(examples/example1.jpg)
+
+(examples/example2.jpg)
+
+(examples/example3.jpg)
+
 
 ---
 
